@@ -1,0 +1,16 @@
+    body {
+        background-image: url("images/hash_background.png");
+    }
+    #container {
+        padding-top:10px;
+        padding-bottom:10px;
+        padding-right:50px;
+        padding-left:50px;
+        width: 800px;
+        margin-top: 25px;
+        margin-left: auto;
+        margin-right: auto;
+        -moz-border-radius: 15px;
+        border-radius: 15px;
+        background-color:#ccc;
+    }
